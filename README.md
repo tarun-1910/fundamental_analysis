@@ -25,7 +25,6 @@ This project applies fundamental analysis to help investors understand how a com
 
 ## Example Applications
 
-- Laurus Labs Ltd. — pharmaceutical manufacturing and CDMO analysis
 - Billionbrains Garage Ventures Ltd. (Groww) — investment platform and financial-services analysis
 
 ## Limitations
